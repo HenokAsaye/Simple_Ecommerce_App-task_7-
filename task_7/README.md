@@ -51,24 +51,24 @@ A simple ecommerce mobile app built with Flutter that allows users to create, vi
 ### Installation
 
 1. Clone the repository:
-\`\`\`bash
+```
 git clone <repository-url>
 cd ecommerce_app
-\`\`\`
+```
 
 2. Install dependencies:
-\`\`\`bash
+```
 flutter pub get
-\`\`\`
+```
 
-3. Run the app:
-\`\`\`bash
+4. Run the app:
+```
 flutter run
-\`\`\`
+```
 
 ## Project Structure
 
-\`\`\`
+```
 lib/
 ├── main.dart                 # App entry point and route configuration
 ├── models/
@@ -77,7 +77,7 @@ lib/
     ├── home_screen.dart     # Product list screen
     ├── add_edit_product_screen.dart  # Add/Edit product form
     └── product_detail_screen.dart    # Product details view
-\`\`\`
+```
 
 ## Technical Implementation
 
